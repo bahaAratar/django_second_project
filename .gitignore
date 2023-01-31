@@ -1,0 +1,5 @@
+venv
+main/__pycache__
+main/settings.py
+music/__pycache__
+music/migrations/__pycache__
